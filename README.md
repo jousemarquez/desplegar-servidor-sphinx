@@ -69,7 +69,12 @@ cp -r /home/azureuser/sphinx-project/build/html/* .
 ```
 Esto copiará el contenido de la carpeta "html" a la carpeta que sirve la web en tu servidor Apache
 
+## Reflexiones sobre Sphinx
 
+### Valoración de Sphinx y Alternativas
 
+Sphinx ofrece potentes capacidades de documentación, especialmente en proyectos extensos. Su estructura formal es beneficiosa para colaboraciones complejas. Sin embargo, en proyectos más simples, opciones más directas como Markdown pueden ser suficientes.
 
+### Crítica sobre Procesos de Documentación
 
+La falta de documentación inicial dificulta la integración y puede generar errores. Documentación clara facilita la comprensión, valoración del trabajo y transmisión de conocimientos entre compañeros, siendo crucial para el éxito del proyecto.
